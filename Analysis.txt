@@ -1,0 +1,22 @@
+The data used in the analysis is the NY CITI BIKE data from the year 2019 for the months May-October. 
+Therefore, the analysis is for the summer months, including the early fall and late spring months. 
+The data can be found here: https://ride.citibikenyc.com/system-data
+
+From the data, some unexpected phenomenon that were uncovered are: 
+1. There are a lot less female riders using the program than male. 
+Although this number grows from May to September, it plummets again in October. 
+This might be due to end of summer or some other reason that needs to be looked into.
+
+2. From the map and from other analyses it is clear that most trips occur between few selected stations, mostly in Manhattan.
+The top 10 stations for pickup and drop-off are the same set of stations. 
+Therefore, plans must be formulated to increase ridership in other lesser used stations.
+
+3. There are a lot more trips by long term subscribers than short term customers. 
+
+4.  The most common age of riders is either around 30 or 50.
+
+5. Most rides are booked during office start time (8:00 A.M.) and end time (5:00 P.M.). 
+However, these trips are short in duration
+This suggests that people generally use these bikes for travelling to/from offices and public transportation stations.
+
+6. The busiest days of the week are Wednesday and Friday. The busiest month is September.
